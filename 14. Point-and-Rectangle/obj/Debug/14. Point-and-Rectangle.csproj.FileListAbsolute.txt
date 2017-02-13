@@ -1,0 +1,9 @@
+C:\Users\Mariusz\Desktop\C#\4. Complex-Conditions\14. Point-and-Rectangle\bin\Debug\_14.Point_and_Rectangle.exe.config
+C:\Users\Mariusz\Desktop\C#\4. Complex-Conditions\14. Point-and-Rectangle\bin\Debug\_14.Point_and_Rectangle.exe
+C:\Users\Mariusz\Desktop\C#\4. Complex-Conditions\14. Point-and-Rectangle\bin\Debug\_14.Point_and_Rectangle.pdb
+C:\Users\Mariusz\Desktop\C#\4. Complex-Conditions\14. Point-and-Rectangle\obj\Debug\14. Point-and-Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\C#\4. Complex-Conditions\14. Point-and-Rectangle\obj\Debug\_14.Point_and_Rectangle.FormPointAndRectangle.resources
+C:\Users\Mariusz\Desktop\C#\4. Complex-Conditions\14. Point-and-Rectangle\obj\Debug\_14.Point_and_Rectangle.Properties.Resources.resources
+C:\Users\Mariusz\Desktop\C#\4. Complex-Conditions\14. Point-and-Rectangle\obj\Debug\14. Point-and-Rectangle.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Desktop\C#\4. Complex-Conditions\14. Point-and-Rectangle\obj\Debug\_14.Point_and_Rectangle.exe
+C:\Users\Mariusz\Desktop\C#\4. Complex-Conditions\14. Point-and-Rectangle\obj\Debug\_14.Point_and_Rectangle.pdb
